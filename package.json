@@ -1,0 +1,32 @@
+{
+  "name": "mongodb_crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdfrs/mongodb_crud.git"
+  },
+  "keywords": [
+    "mongo",
+    "db",
+    "nodejs",
+    "jwt"
+  ],
+  "bugs": {
+    "url": "https://github.com/abdfrs/mongodb_crud/issues"
+  },
+  "homepage": "https://github.com/abdfrs/mongodb_crud#readme",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.5"
+  }
+}
